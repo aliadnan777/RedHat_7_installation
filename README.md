@@ -44,3 +44,4 @@
 * From next screen enable Kdummb and choose option automatic and click forward
 * next step is registration with redhat skip this
 * now login and use redhat 7
+
